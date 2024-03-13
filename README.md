@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhouyi Zhou@zhouzhouyi-hub
 - 👀 I’m interested in system software like operating systems and compilers
 - 🌱 I’m currently learning Linux kernel and LLVM/clang
-- 💞️ I’m looking to collaborate on develop system software
+- 💞️ I’m currently writing a little learning note about Linux XArray that is widely used in Linux kernel, for example page caches (https://github.com/zhouzhouyi-hub/Tran-Huge-Study/tree/main/XARRAY)
 - 📫 How to reach me ... Zhouyi Zhou <zhouzhouyi@gmail.com>
 
 <!---
